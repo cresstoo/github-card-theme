@@ -1,13 +1,13 @@
-Github-Card-Slim
+Github-Card-Azzura
 ===
 A simple github card theme modified from [octocard](https://github.com/zmmbreeze/octocard/).
 
-【SCREENSHOTS】
+Only【SCREENSHOTS】 by now:
 
-update: 新增mini版和wide版
+update: min/slim/wide
 
 ![screenshot1](http://duran.qiniudn.com/media/github-card-blue.png)
 
-blue/dark/image三种head
+blue/dark/image head
 
 ![srennshot](http://duran.qiniudn.com/media/github-slim.png)
