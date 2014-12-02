@@ -4,7 +4,7 @@ A simple github card theme modified from [octocard](https://github.com/zmmbreeze
 
 Only【SCREENSHOTS】 by now:
 
-update: min/slim/wide
+min/slim/wide
 
 ![screenshot1](http://duran.qiniudn.com/media/github-card-blue.png)
 
