@@ -2,7 +2,14 @@ Github-Card-Azzura
 ===
 A simple github card theme modified from [octocard](https://github.com/zmmbreeze/octocard/).
 
-Only【SCREENSHOTS】 by now:
+Code: zmmbreeze
+
+Design: cress
+
+[Get this theme](https://github.com/zmmbreeze/octocard/blob/master/themes/azzura.less) 
+
+
+## SCREENSHOTS
 
 min/slim/wide
 
