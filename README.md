@@ -13,8 +13,8 @@ Design: cress
 
 min/slim/wide
 
-![screenshot1](http://duran.qiniudn.com/media/github-card-blue.png)
+![srennshot]([http://duran.qiniudn.com/media/github-slim.png](https://raw.githubusercontent.com/cresstoo/github-card-theme/refs/heads/master/github-card-blue.png))
 
 blue/dark/image head
 
-![srennshot](http://duran.qiniudn.com/media/github-slim.png)
+![screenshot1]([http://duran.qiniudn.com/media/github-card-blue.png](https://raw.githubusercontent.com/cresstoo/github-card-theme/refs/heads/master/github-slim.png))
