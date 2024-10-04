@@ -12,9 +12,8 @@ Design: cress
 ## SCREENSHOTS
 
 min/slim/wide
-
-![screenshot1](https://raw.githubusercontent.com/cresstoo/github-card-theme/refs/heads/master/github-slim.png)
+![screenshot1](https://raw.githubusercontent.com/cresstoo/github-card-theme/refs/heads/master/github-card-blue.png)
 
 blue/dark/image head
+![screenshot2](https://raw.githubusercontent.com/cresstoo/github-card-theme/refs/heads/master/github-slim.png)
 
-![screenshot2](https://raw.githubusercontent.com/cresstoo/github-card-theme/refs/heads/master/github-card-blue.png)
